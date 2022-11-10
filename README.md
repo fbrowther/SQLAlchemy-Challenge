@@ -67,8 +67,8 @@ Last but the not the least, i have created a weather_app for you to plan your tr
 I used Flask API to develop this app and employed the queries i used above to execute the analysis for you. 
 
 This app will enable you to query the dataset for -
-##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
-##### (2) Query the Hawaii stations for their details.
-##### (3) Query temperature for a specific date.
-##### (4) Query temperature (min, avr, and max) for a specific date.
-##### (5) Query temperature (min, avr, and max) for a specific duration for potential trips (with start and end date) 
+##### (1) Hawaii precipitation data for the entire duration of the dataset.
+##### (2) Hawaii stations for their details.
+##### (3) Temperature for a specific date.
+##### (4) Temperature (min, avr, and max) for a specific date.
+##### (5) Temperature (min, avr, and max) for a specific duration for potential trips (with start and end date) 
