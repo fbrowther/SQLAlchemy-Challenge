@@ -69,10 +69,7 @@ I used Flask API based on the queries i have developed above.
 This app will enable to query the dataset employing simple queries such as 
 
 ##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
-##### (2) Query the Hawaii stations for details 
-##### (3) Query about the weather for a specific date.
-##### (4) Query about the weather for a specific duration for potential trips (start and end date)
-##### (5) 
-
-
-
+##### (2) Query the Hawaii stations for their details.
+##### (3) Query temperature for a specific date.
+##### (4) Query temperature (min, avr, and max) for a specific date.
+##### (5) Query temperature (min, avr, and max) for a specific duration for potential trips (with start and end date) 
