@@ -14,7 +14,6 @@ Precipitation data was analysed for the last 1 year of the climate dataset to ge
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Annual_Precipitation_Hawaii.png)
 
 
-There were very few 
-The summary statistical analysis indicates a mean	of 0.048843, std-0.205197, min-0.000000, 25%	0.000000, 50%	0.000000, 75%	0.020000, and max	2.620000.
+Eventhough, there were very few distinct days of outpour; for most part of the year, the sky was clear and showed no very little to none of precipitation for most part of the year. This was clearly supported by the summary statistical analysis which showed a mean	of 0.048843, std 0.205197, min of 0.000000, and max of 2.620000.
 
 
