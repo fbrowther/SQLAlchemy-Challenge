@@ -9,8 +9,12 @@ Employing SQLAlchemy ORM queries, Pandas, and Matplotlib, I carried out climate 
 
 
 ### Precipitation Analysis
-Precipitation data was analysed for the last 1 year of the climate dataset to get an idea of the most (recent) annual precipation pattern.
+Precipitation data was analysed for the last 1 year of the climate dataset to get an idea of the most (recent) annual precipation pattern (in inches).
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Annual_Precipitation_Hawaii.png)
+
+
+There were very few 
+The summary statistical analysis indicates a mean	of 0.048843, std-0.205197, min-0.000000, 25%	0.000000, 50%	0.000000, 75%	0.020000, and max	2.620000.
 
 
