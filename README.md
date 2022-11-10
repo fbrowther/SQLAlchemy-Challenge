@@ -22,6 +22,7 @@ In order to determine the most favourable station for holiday within Hawaii, I o
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Temperature%20in%20highly_active_station.png)
 
+The tobs for the most active station 'USC00519281' showed a temperature >65 degree F for > 90% of the time for the previous 12 months, indicating why this station showed most activity for the previous year.
 
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
 For this, i analysed the weather data to identify the average temperature in June for all stations across all available years. This was repeated for the month of december too. 
