@@ -33,15 +33,14 @@ Further analyses, showed statistically significant difference in temperature (em
 Ttest=31.60372399000329, 
 pvalue=3.9025129038616655e-191 
 
-### Temperature Analysis - whats does the historic weather data show for August 1 to August 7 if one were to take a trip during this timeof the year?
+### Temperature Analysis - what does the historic weather data show for August 1 to August 7 if one were to take a trip during this time of the year?
 Employing, python the calc_temps function I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Trip_average_temp.png)
 
 
 ### Daily Rainfall Average
-Calculate the rainfall per weather station using the previous year's matching dates.
-Sort this in descending order by precipitation amount, and list the station, name, latitude, longitude, and elevation.
+The rainfall per weather station using the previous year's matching dates was calculated. The data was sorted in in descending order by precipitation amount, and along with the list of the station, name, latitude, longitude, and elevation.
 
 
 
