@@ -34,7 +34,7 @@ Further analyses, showed statistically significant difference in temperature (em
 Ttest=31.60372399000329, 
 pvalue=3.9025129038616655e-191 
 
-Even though, the averages for June and December are very close and there exists only a small difference in averages between the two months, this difference still was statistically significant (P<0.05) indicating the consistency in the weather during those two months.
+Even though, the averages for June and December are very close and there exists only a small difference in averages between the two months, this difference still was statistically significant (P<0.05) indicating the consistency in the temperatures during those two months.
 
 ### Temperature Analysis - what does the historic weather data show for August 1 to August 7 if one were to take a trip during this time of the year?
 Employing python calc_temps function, I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
