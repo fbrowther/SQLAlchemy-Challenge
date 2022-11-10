@@ -4,7 +4,7 @@ As a part of this research project,  I was required to analyse the climate datas
 
 Is travelling to Honolulu enjoyable throughout the year? Hmmmmm.....lets find out!
 
-##Part 1: Climate Analysis and Exploration
+## Part 1: Climate Analysis and Exploration
 Employing SQLAlchemy ORM queries, Pandas, and Matplotlib, I carried out climate analysis and data exploration of the climate database. IN order to complete this task i connected to SQLite database (by a creating engine), followed by automap_base() to reflect weather tables into classes and finally connecting to python using a SQLAlchemy session.
 
 
