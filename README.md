@@ -26,7 +26,14 @@ In order to determine the most favourable station for holiday within Hawaii I ob
 
 
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
-For this i analysed the weather dataset to identify the average temperature in June for all stations across all available years in the dataset. 
+For this i analysed the weather dataset to identify the average temperature in June for all stations across all available years in the dataset. This was repeated for the month of december too. 
+
+June average temperature:  74.94411764705882
+Decempber average temperature:  71.04152933421226
+
+Further analyses also showed no statistically significant difference in temperature (employing unpaired Ttest) for the month of June and for December.
+Ttest=31.60372399000329, 
+pvalue=3.9025129038616655e-191
 
 
 Do the same for the temperature in December.
