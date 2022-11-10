@@ -27,8 +27,8 @@ The tobs for the most active station 'USC00519281' showed a temperature >65 degr
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
 For this, i analysed the weather data to identify the average temperature in June for all stations across all available years. This was repeated for the month of december too. 
 
-######June average temperature:  74.94411764705882
-######Decempber average temperature:  71.04152933421226
+###### June average temperature:  74.94411764705882
+###### Decempber average temperature:  71.04152933421226
 
 Further analyses, showed statistically significant difference in temperature (employing unpaired Ttest) for the month of June and December.
 Ttest=31.60372399000329, 
