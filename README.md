@@ -22,7 +22,6 @@ In order to determine the most favourable station for holiday within Hawaii I ob
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Temperature%20in%20highly_active_station.png)
 
 
-
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
 For this i analysed the weather dataset to identify the average temperature in June for all stations across all available years in the dataset. This was repeated for the month of december too. 
 
@@ -40,16 +39,12 @@ Employing, python the calc_temps function I calculated the minimum, average, and
 
 
 ### Daily Rainfall Average
-The rainfall per weather station using the previous year's matching dates was calculated. The data was sorted in in descending order by precipitation amount, and along with the list of the station, name, latitude, longitude, and elevation.
+The rainfall per weather station using the previous year's matching dates was calculated. The data was sorted in descending order by precipitation amount, and along with the list of the station, name, latitude, longitude, and elevation.
 
+![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/data_stationrain.png)
 
 ### Daily Temperature Normals
 The daily normals for the trip duration was calculated. Normals are the averages for the minimum, average, and maximum temperatures.
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/TempNormalsforTrip.png)
-
-
-
-
-   
 
