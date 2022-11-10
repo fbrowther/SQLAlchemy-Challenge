@@ -70,5 +70,5 @@ This app will enable you to query the dataset for -
 ##### (1) Hawaii precipitation data for the entire duration of the dataset.
 ##### (2) Hawaii stations for their details.
 ##### (3) Temperature for a specific date.
-##### (4) Temperature (min, avr, and max) for a specific date.
-##### (5) Temperature (min, avr, and max) for a specific duration for potential trips (with start and end date) 
+##### (4) Temperature (Tmin, Tavr, and Tmax) for a specific date.
+##### (5) Temperature (Tmin, Tavr, and Tmax) for a specific duration for potential trips (with start and end date) 
