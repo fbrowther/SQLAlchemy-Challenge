@@ -41,6 +41,7 @@ Employing python calc_temps function, I calculated the minimum, average, and max
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Trip_average_temp.png)
 
+The trip duration (analysed above) had an average temperature of 80 degree F.
 
 ### Daily Rainfall Average
 The rainfall per weather station using the previous year's matching dates was calculated. The data was sorted in descending order by precipitation amount, and along with the list of the station, name, latitude, longitude, and elevation.
