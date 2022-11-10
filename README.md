@@ -43,32 +43,10 @@ Employing, python the calc_temps function I calculated the minimum, average, and
 The rainfall per weather station using the previous year's matching dates was calculated. The data was sorted in in descending order by precipitation amount, and along with the list of the station, name, latitude, longitude, and elevation.
 
 
-
-
-
 ### Daily Temperature Normals
+The daily normals for the trip duration was calculated. Normals are the averages for the minimum, average, and maximum temperatures.
 
-Calculate the daily normals for the duration of your trip. Normals are the averages for the minimum, average, and maximum temperatures.
-You are provided with a function called daily_normals that will calculate the daily normals for a specific date. This date string will be in the format %m-%d. Make sure to use all historic TOBS that match that date string.
-Complete the following steps:
-
-
-Set the start and end date of the trip.
-
-
-Use the date to create a range of dates.
-
-
-Strip off the year, and save a list of strings in the format %m-%d.
-
-
-Use the daily_normals function to calculate the normals for each date string, and append the results to a list called normals.
-
-
-Load the list of daily normals into a Pandas DataFrame, and set the index equal to the date.
-
-
-Use Pandas to plot an area plot (stacked=False) for the daily normals, as shown in the following image:
+![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/TempNormalsforTrip.png)
 
 
 
