@@ -62,9 +62,10 @@ With this analysis Hawaii has truly proved that any weather parameter one were t
 So, do plan your trip whenever you can!!
 
 # WEATHER_APP
-Last but the not the least, i have created an Hawaii_weather_app for you to plan your trip to Hawaii. 
+Last but the not the least, i have created a weather_app for you to plan your trip to Hawaii. 
 
-I used Flask API to develop this app and employed the queries i used above. 
+I used Flask API to develop this app and employed the queries i used above to execute the analysis for you. 
+
 This app will enable you to query the dataset for -
 ##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
 ##### (2) Query the Hawaii stations for their details.
