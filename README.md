@@ -65,9 +65,7 @@ So, do plan your trip whenever you can!!
 Last but the not the least, i have created an Hawaii_weather_app for you to plan your trip to Hawaii. 
 
 I used Flask API to develop this app and employed the queries i used above. 
-
 This app will enable you to query the dataset for -
-
 ##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
 ##### (2) Query the Hawaii stations for their details.
 ##### (3) Query temperature for a specific date.
