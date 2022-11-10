@@ -9,6 +9,8 @@ Employing SQLAlchemy ORM queries, Pandas, and Matplotlib, I carried out climate 
 
 
 ### Precipitation Analysis
-Precipitation data was analysed for the last 1 year of the dataset to get an idea of the most (recent) annual precipation pattern.
+Precipitation data was analysed for the last 1 year of the climate dataset to get an idea of the most (recent) annual precipation pattern.
+
+![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Annual_Precipitation_Hawaii.png)
 
 
