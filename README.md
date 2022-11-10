@@ -64,7 +64,7 @@ So, do plan your trip whenever you can!!
 # WEATHER_APP
 Last but the not the least, i have created an Hawaii_weather_app for you to plan your trip to Hawaii. 
 
-I used Flask API based on the queries i have developed above. 
+I used Flask API to develop this app and employed the queries i used above. 
 
 This app will enable you to query the dataset for -
 
