@@ -27,14 +27,14 @@ The tobs for the most active station 'USC00519281' showed a temperature >65 degr
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
 For this, i analysed the weather data to identify the average temperature in June for all stations across all available years. This was repeated for the month of december too. 
 
-###### June average temperature:  74.94411764705882
-###### Decempber average temperature:  71.04152933421226
+##### June average temperature:  74.94411764705882
+##### Decempber average temperature:  71.04152933421226
 
 Further analyses, showed statistically significant difference in temperature (employing unpaired Ttest) for the month of June and December.
 Ttest=31.60372399000329, 
 pvalue=3.9025129038616655e-191 
 
-Even though, the averages for June and December are very close and there exists only a small difference in averages between the two months (June and December), this difference still was statistically significant (P<0.05) indicating the consistency in the weather during those months.
+Even though, the averages for June and December are very close and there exists only a small difference in averages between the two months, this difference still was statistically significant (P<0.05) indicating the consistency in the weather during those two months.
 
 ### Temperature Analysis - what does the historic weather data show for August 1 to August 7 if one were to take a trip during this time of the year?
 Employing python calc_temps function, I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
