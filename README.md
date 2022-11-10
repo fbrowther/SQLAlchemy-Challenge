@@ -48,7 +48,7 @@ The rainfall per weather station using the previous year's matching dates was ca
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/data_stationrain.png)
 
-'USC00519281' seems to be an ideal station to visit in Hawaii as it showed least rainful along with an ideal temperature >65 degree F for >90% of the time. Therefore, once again this station is consistent being most active with travellers.
+'USC00519281' seems to be an ideal station to visit in Hawaii as it showed comparatively lower rainful along with an ideal temperature >65 degree F for >90% of the time. Therefore, once again this station is consistent as to why it is most active with travellers.
 
 ### Daily Temperature Normals
 The daily normals for the trip duration was calculated. Normals are the averages for the minimum, average, and maximum temperatures.
