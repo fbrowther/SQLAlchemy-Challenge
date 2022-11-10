@@ -17,16 +17,6 @@ Eventhough, there were very few distinct days of outpour; for most part of the y
 
 
 ### Station Analysis
-In order to determine the most favourable station for holiday within Hawaii I obtained the list of stations with most activity recorded -
-   Station_ID   no_of_activities
- ('USC00519281', 2772),
- ('USC00519397', 2724),
- ('USC00513117', 2709),
- ('USC00519523', 2669),
- ('USC00516128', 2612),
- ('USC00514830', 2202),
- ('USC00511918', 1979),
- ('USC00517948', 1372),
- ('USC00518838', 511)]
-and retrieved 'USC00519281' previous 12 months of temperature observation data (TOBS).
+In order to determine the most favourable station for holiday within Hawaii I obtained the list of stations with most activity recorded first, followed by retrieving its ('USC00519281') previous 12 months of temperature observation data (TOBS). The 
+   
 
