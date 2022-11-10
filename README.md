@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
 
-As a part of this research project,  I was required to analyse the climate dataset (hawaii.sqlite) for Honolulu, Hawaii! a favourable destination for most travellers; owing to its spelendid natural beauty. 
+As a part of this research project,  I was required to analyse the climate dataset (hawaii.sqlite) for Honolulu, Hawaii! a favourable destination for most travellers owing to its splendid natural beauty. 
 
 Is travelling to Honolulu enjoyable throughout the year? Hmmmmm.....lets find out!
 
