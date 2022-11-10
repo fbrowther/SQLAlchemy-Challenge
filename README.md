@@ -31,50 +31,25 @@ For this i analysed the weather dataset to identify the average temperature in J
 June average temperature:  74.94411764705882
 Decempber average temperature:  71.04152933421226
 
-Further analyses also showed no statistically significant difference in temperature (employing unpaired Ttest) for the month of June and for December.
+Further analyses, showed statistically significant difference in temperature (employing unpaired Ttest) for the month of June and December.
 Ttest=31.60372399000329, 
-pvalue=3.9025129038616655e-191
+pvalue=3.9025129038616655e-191 
+
+### Temperature Analysis - whats does the historic weather data show for August 1 to August 7 if one were to take a trip during this timeof the year?
+Employing, python the calc_temps function I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
+
+![alt text]([(https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Trip_average_temp.png)])
 
 
-Do the same for the temperature in December.
-
-
-Use the t-test to determine whether the difference in means, if any, is statistically significant. Will you use a paired t-test or an unpaired t-test? Why?
-
-
-
-Temperature Analysis 2
-You want to take a trip from August 1 to August 7 of this year, but you are worried that the weather will be less than ideal. Using historical data in the dataset, find out what the temperature has previously been for this timeframe.
-Note: The starter notebook contains a function called calc_temps that will accept a start date and end date in the format %Y-%m-%d. The function will return the minimum, average, and maximum temperatures for that range of dates.
-Complete the following steps:
-
-
-Use the calc_temps function to calculate the minimum, average, and maximum temperatures for your trip using the matching dates from a previous year (for example, use "2017-08-01").
-
-
-Plot the minimum, average, and maximum temperature from your previous query as a bar chart, as captured in the following steps and image:
-
-
-Use "Trip Avg Temp" as the title.
-
-
-Use the average temperature as the bar height (y value).
-
-
-Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
-
-Daily Rainfall Average
-Now that you have an idea of the temperature, let’s find out what the rainfall has been. You don't want to visit if it rains the whole time! Complete the following steps:
-
-
+### Daily Rainfall Average
 Calculate the rainfall per weather station using the previous year's matching dates.
-
 Sort this in descending order by precipitation amount, and list the station, name, latitude, longitude, and elevation.
 
 
 
 
-Daily Temperature Normals
+### Daily Temperature Normals
+
 Calculate the daily normals for the duration of your trip. Normals are the averages for the minimum, average, and maximum temperatures.
 You are provided with a function called daily_normals that will calculate the daily normals for a specific date. This date string will be in the format %m-%d. Make sure to use all historic TOBS that match that date string.
 Complete the following steps:
