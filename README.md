@@ -66,7 +66,7 @@ Last but the not the least, i have created an Hawaii_weather_app for you to plan
 
 I used Flask API based on the queries i have developed above. 
 
-This app will enable to query the dataset employing simple queries such as 
+This app will enable you to query the dataset for -
 
 ##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
 ##### (2) Query the Hawaii stations for their details.
