@@ -55,7 +55,7 @@ The daily normals for the trip duration was calculated. Normals are the averages
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/TempNormalsforTrip.png)
 
-Temperatures throught the year seemed very mild and enjoyable.
+Temperatures throught the year seemed mild and enjoyable.
 
 ## Conclusions
 With this analysis Hawaii has truly proved that any weather parameter one were to look at, it had an ideal location for a near perfect weather!
