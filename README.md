@@ -60,3 +60,19 @@ Temperatures throught the year seemed very mild and enjoyable.
 ## Conclusions
 With this analysis Hawaii has truly proved that any weather parameter one were to look at, it had an ideal location for a near perfect weather!
 So, do plan your trip whenever you can!!
+
+# WEATHER_APP
+Last but the not the least, i have created an Hawaii_weather_app for you to plan your trip to Hawaii. 
+
+I used Flask API based on the queries i have developed above. 
+
+This app will enable to query the dataset employing simple queries such as 
+
+##### (1) Query about the Hawaii precipitation data for the entire duration of the dataset.
+##### (2) Query the Hawaii stations for details 
+##### (3) Query about the weather for a specific date.
+##### (4) Query about the weather for a specific duration for potential trips (start and end date)
+##### (5) 
+
+
+
