@@ -18,13 +18,13 @@ Eventhough, there were very few distinct days of outpour; for most part of the y
 
 
 ### Station Analysis
-In order to determine the most favourable station for holiday within Hawaii, I obtained first the list of stations with most activity recorded followed by retrieving its ('USC00519281') previous 12 months of temperature observation data (TOBS). The distribution of TOBS for this station has been illustrated as follows -
+In order to determine the most favourable station for holiday within Hawaii, I obtained the list of stations with most activity recorded followed by retrieving its ('USC00519281') previous 12 months of temperature observation data (TOBS). The distribution of TOBS for this station has been illustrated as follows -
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Temperature%20in%20highly_active_station.png)
 
 
 ### Temperature Analysis - Is there a meaningful difference in temperatures in June and December?
-For this i analysed the weather dataset to identify the average temperature in June for all stations across all available years in the dataset. This was repeated for the month of december too. 
+For this, i analysed the weather data to identify the average temperature in June for all stations across all available years. This was repeated for the month of december too. 
 
 June average temperature:  74.94411764705882
 Decempber average temperature:  71.04152933421226
@@ -33,8 +33,10 @@ Further analyses, showed statistically significant difference in temperature (em
 Ttest=31.60372399000329, 
 pvalue=3.9025129038616655e-191 
 
+Even though, the averages for June and December are very close enough and it does not seem to be a big difference in averages between the two months (June and December), this fewer degree difference still seemed be to statistically significant for those months (P<0.05).
+
 ### Temperature Analysis - what does the historic weather data show for August 1 to August 7 if one were to take a trip during this time of the year?
-Employing, python the calc_temps function I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
+Employing python calc_temps function, I calculated the minimum, average, and maximum temperatures for the matching dates from a previous year (e.g., "2017-08-01" - "2017-08-07").
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Trip_average_temp.png)
 
