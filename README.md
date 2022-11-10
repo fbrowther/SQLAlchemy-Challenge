@@ -46,6 +46,7 @@ Sort this in descending order by precipitation amount, and list the station, nam
 
 
 
+
 ### Daily Temperature Normals
 
 Calculate the daily normals for the duration of your trip. Normals are the averages for the minimum, average, and maximum temperatures.
