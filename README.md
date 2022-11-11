@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
 
-Owing to its splendid natural beauty, Honolulu, Hawaii is a favourite destination for most travellers.  As a part of this research project,  I was required to analyse the climate dataset (hawaii.sqlite) for Hawaii.
+Owing to its splendid natural beauty, Honolulu, Hawaii is a favourite destination for most travellers.  As a part of this research project,  I was required to analyse the climate dataset (hawaii.sqlite) for Hawaii to determine its suitability to be an ideal holiday destination.
 
 Is travelling to Honolulu enjoyable all throughout the year? 
 
