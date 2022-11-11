@@ -30,7 +30,7 @@ For this, i analysed the weather data to identify the average temperature in Jun
 ##### June average temperature:  74.94411764705882
 ##### Decempber average temperature:  71.04152933421226
 
-Further analyses, showed statistically significant difference in temperature (employing unpaired Ttest) for the month of June and December.
+Further analyses showed statistically significant difference in temperature (employing unpaired Ttest) for the month of June and December.
 Ttest=31.60372399000329, 
 pvalue=3.9025129038616655e-191 
 
