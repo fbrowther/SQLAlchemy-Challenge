@@ -7,10 +7,10 @@ Is travelling to Honolulu enjoyable all throughout the year?
 Hmmmmm.....lets find out!
 
 ## Part 1: Climate Analysis and Exploration
-Employing SQLAlchemy ORM queries, Pandas, and Matplotlib, I carried out climate analysis and data exploration of the climate database. In order to complete this task i connected to SQLite database (by creating engine), followed by automap_base() to reflect weather tables into classes and finally connecting to python using a SQLAlchemy session.
+Employing SQLAlchemy ORM queries, Pandas, and Matplotlib, I carried out climate analysis and data exploration of the climate database. In order to complete this task, i connected to SQLite database by creating engine, followed by automap_base() to reflect weather tables into classes and finally connecting to python using a SQLAlchemy session.
 
 ### Precipitation Analysis
-Precipitation data was analysed for the last 1 year (of the climate dataset) to get an idea of the recent (annual) precipation pattern.
+Precipitation data was analysed for the last 1 year (of the climate dataset) to get an idea of the recent annual precipation pattern.
 
 ![alt text](https://github.com/fbrowther/SQLAlchemy-Challenge/blob/main/Images/Annual_Precipitation_Hawaii.png)
 
